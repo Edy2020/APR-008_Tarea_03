@@ -17,7 +17,7 @@ namespace Tarea_03
             Console.WriteLine("         Tarifa");
             Console.WriteLine("60 minutos o menos = $500");
             Console.WriteLine("120 minutos        = $800");
-            Console.WriteLine("+ 120 minutos      = $1500");
+            Console.WriteLine("+120 minutos      = $1500");
             Console.WriteLine("");
             Console.WriteLine("==============================");
 
